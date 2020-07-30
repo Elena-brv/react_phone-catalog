@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "606953d14a216f44ebf7fb1b23992391",
+    "revision": "c5319b86e2db9c8062943bdedd47a8fc",
     "url": "./index.html"
   },
   {
-    "revision": "de48a29c432e6a06e68d",
-    "url": "./static/css/main.82445f12.chunk.css"
+    "revision": "d2d4f545f28b7df1e154",
+    "url": "./static/css/main.dcdc39ae.chunk.css"
   },
   {
     "revision": "2dccce6a023ac7bdcd3d",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.75343c50.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "de48a29c432e6a06e68d",
+    "revision": "d2d4f545f28b7df1e154",
     "url": "./static/js/main.10ce212b.chunk.js"
   },
   {
@@ -34,9 +34,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d41a520b1802421f24e21279736e1871",
     "url": "./static/media/Mont-SemiBold.d41a520b.otf"
-  },
-  {
-    "revision": "8d884803928628aa7b15861d143e5ee0",
-    "url": "./static/media/favorites-active.8d884803.svg"
   }
 ]);
